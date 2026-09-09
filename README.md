@@ -1,3 +1,5 @@
+# Netflix Clone DevSecOps: CI/CD Pipeline with Jenkins, Docker, Kubernetes, Security & Monitoring
+
 Deployment of Netflix clone. Using Jenkins as a CICD tool and deploying our application on a Docker container and Kubernetes Cluster and will monitor the Jenkins and Kubernetes metrics using Grafana, Prometheus and Node exporter.
 <img width="989" height="469" alt="image" src="https://github.com/user-attachments/assets/af53e201-22f2-48d6-9bb3-c5897a53041a" />
 
